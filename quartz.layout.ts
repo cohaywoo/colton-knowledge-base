@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/ggamel/template-knowledge-base-docs",
+      GitHub: "https://github.com/cohaywoo/colton-knowledge-base",
     },
   }),
 }
