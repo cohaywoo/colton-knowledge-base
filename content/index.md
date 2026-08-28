@@ -1,7 +1,9 @@
 ---
 title: Minecraft Survival & Mechanics Guide
+description: A practical Minecraft knowledge base for survival, crafting, redstone, exploration, and mob farms.
 ---
-Welcome to my Minecraft Knowledge Base! This site serves as a central hub for essential crafting recipes, redstone contraption guides, biome breakdowns, and survival tips for both beginners and experienced players.
+
+Welcome to my Minecraft knowledge base: a practical collection of guides for building smarter, exploring farther, and thriving in survival mode.
 
 ## Main Categories
 
@@ -11,41 +13,8 @@ Welcome to my Minecraft Knowledge Base! This site serves as a central hub for es
 - [[biomes-exploration/index|Biomes & Exploration]]
 - [[mob-farming/index|Mob Farming]]
 
-## The index page
+## About this guide
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This guide is built from hands-on survival play, with an emphasis on useful mechanics, reliable automation, and clear explanations.
 
-## Editing pages
-
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+Learn more [[About.me|about the author]].

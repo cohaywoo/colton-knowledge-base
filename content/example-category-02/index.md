@@ -1,5 +1,6 @@
 ---
 title: Category 02
+draft: true
 ---
 ## The Category 02 category index page
 
