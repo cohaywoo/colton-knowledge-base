@@ -2,9 +2,9 @@
 title: Survival Basics
 ---
 
-![A Minecraft-inspired forest landscape representing the start of a survival world](https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80)
+![A Minecraft grass block representing the start of a survival world](https://minecraft.wiki/images/Grass_Block_JE7_BE6.png)
 
-Focuses on early-game essentials, such as punching trees for wood, building a temporary dirt or wooden shelter, lighting up the area with torches, and crafting basic stone tools.
+Focuses on early-game essentials, such as punching trees for wood, building a temporary dirt or wooden shelter, lighting up area with torches, and crafting basic stone tools.
 
 ## First-day priorities
 

@@ -2,7 +2,7 @@
 title: Mob Farming
 ---
 
-![A nighttime field representing resource gathering and mob farm planning](https://images.unsplash.com/photo-1500534623283-312aede485b7?auto=format&fit=crop&w=1200&q=80)
+![A Minecraft zombie representing hostile mobs and mob farming](https://minecraft.wiki/images/Zombie_JE5_BE2.png)
 
 Shows automated or manual traps designed to spawn and defeat creatures like skeletons, zombies, or creepers to quickly gather loot and experience points.
 
