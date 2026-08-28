@@ -3,6 +3,14 @@ title: Minecraft Survival & Mechanics Guide
 ---
 Welcome to my Minecraft Knowledge Base! This site serves as a central hub for essential crafting recipes, redstone contraption guides, biome breakdowns, and survival tips for both beginners and experienced players.
 
+## Main Categories
+
+- [[survival-basics/index|Survival Basics]]
+- [[crafting-recipes/index|Crafting Recipes]]
+- [[redstone-logic/index|Redstone Logic]]
+- [[biomes-exploration/index|Biomes & Exploration]]
+- [[mob-farming/index|Mob Farming]]
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
@@ -41,4 +49,3 @@ You can use any text editor capable of opening and editing Markdown files.
 ## Adding new pages
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
