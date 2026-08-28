@@ -4,7 +4,7 @@ title: Crafting Recipes
 
 ![Wooden tools and materials arranged on a workbench](https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1200&q=80)
 
-Essential crafting recipes, material guides, and progression paths for useful Minecraft items.
+Displays the standard 3 x 3 crafting table grid filled with ingredients to make items, weapons, armor, or tools.
 
 ## Crafting fundamentals
 
