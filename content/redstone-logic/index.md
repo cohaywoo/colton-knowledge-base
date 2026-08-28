@@ -2,6 +2,8 @@
 title: Redstone Logic
 ---
 
+![Close-up of electronic circuitry representing redstone logic and automation](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
+
 Guides to redstone components, circuits, automation, and practical contraptions.
 
 ## How redstone works

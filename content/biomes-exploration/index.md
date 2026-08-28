@@ -2,6 +2,8 @@
 title: Biomes & Exploration
 ---
 
+![A wide mountain landscape representing exploration across Minecraft biomes](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80)
+
 Notes for discovering biomes, navigating the Overworld, and finding valuable structures and resources.
 
 ## Preparing for exploration

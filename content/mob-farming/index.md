@@ -2,6 +2,8 @@
 title: Mob Farming
 ---
 
+![A nighttime field representing resource gathering and mob farm planning](https://images.unsplash.com/photo-1500534623283-312aede485b7?auto=format&fit=crop&w=1200&q=80)
+
 Designs and strategies for collecting mob drops and building efficient farms.
 
 ## Farm design principles
