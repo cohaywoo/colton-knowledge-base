@@ -2,9 +2,11 @@
 title: Crafting Recipes
 ---
 
-![A Minecraft crafting table used to create tools and items](https://minecraft.wiki/images/Crafting_Table_JE1_BE1.png)
-
 Displays the standard $3 \times 3$ crafting table grid filled with ingredients to make items, weapons, armor, or tools.
+
+## Visual recipe guide
+
+![Minecraft crafting table interface showing the 3 by 3 recipe grid](../images/crafting-grid.png)
 
 ## Crafting fundamentals
 

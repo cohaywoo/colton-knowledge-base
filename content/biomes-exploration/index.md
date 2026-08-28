@@ -2,9 +2,11 @@
 title: Biomes & Exploration
 ---
 
-![A Minecraft plains biome representing exploration across the Overworld](https://minecraft.wiki/images/Plains.png)
-
 Features distinct game landscapes such as lush forests, icy mountains, desert temples, and rare structures like Woodland Mansions or Ocean Monuments.
+
+## Visual biome guide
+
+![Collage of Minecraft biomes including forests, snowy mountains, oceans, deserts, and mesas](../images/biomes-overview.jpg)
 
 ## Preparing for exploration
 

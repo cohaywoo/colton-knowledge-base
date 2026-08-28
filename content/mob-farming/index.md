@@ -2,9 +2,11 @@
 title: Mob Farming
 ---
 
-![A Minecraft zombie representing hostile mobs and mob farming](https://minecraft.wiki/images/Zombie_JE5_BE2.png)
-
 Shows automated or manual traps designed to spawn and defeat creatures like skeletons, zombies, or creepers to quickly gather loot and experience points.
+
+## Visual farm guide
+
+![Minecraft mob and XP farm showing a spawning chamber, drop chute, and collection area](../images/mob-xp-farm.jpg)
 
 ## Farm design principles
 

@@ -2,9 +2,11 @@
 title: Redstone Logic
 ---
 
-![Minecraft redstone dust used to power circuits and machines](https://minecraft.wiki/images/Redstone_Dust_JE2_BE2.png)
-
 Highlights redstone wiring, repeaters, pistons, and observers used to create complex mechanisms like automatic doors or automated crop harvesters.
+
+## Visual circuit guide
+
+![Minecraft redstone logic gates diagram showing circuits and repeaters](../images/redstone-logic.jpg)
 
 ## How redstone works
 

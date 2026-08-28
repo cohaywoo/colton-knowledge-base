@@ -2,9 +2,11 @@
 title: Survival Basics
 ---
 
-![A Minecraft grass block representing the start of a survival world](https://minecraft.wiki/images/Grass_Block_JE7_BE6.png)
-
 Focuses on early-game essentials, such as punching trees for wood, building a temporary dirt or wooden shelter, lighting up area with torches, and crafting basic stone tools.
+
+## Visual build guide
+
+![Step-by-step Minecraft house build showing foundations, supports, roof, and finishing details](../images/survival-house-build.jpg)
 
 ## First-day priorities
 
