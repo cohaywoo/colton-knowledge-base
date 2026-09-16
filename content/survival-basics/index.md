@@ -18,13 +18,13 @@ Foundational guidance for starting, preparing, and thriving in a Minecraft survi
 
 ![Minecraft-themed field meal](../assets/minecraft-themed-meal.jpg)
 
-This Minecraft-themed meal is a reminder that survival planning is part of the fun both in-game and outside it. Photo by [YosemiteYamper on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Minecraft_Movie_McDonald%27s_meal.jpg), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Minecraft-themed meal photo by [YosemiteYamper on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Minecraft_Movie_McDonald%27s_meal.jpg), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Mineral and Mining Reference
+### Survival Checklist
 
-![[assets/mineral-resources-guide.pdf]]
+![[assets/minecraft-survival-checklist.pdf]]
 
-The [USGS mineral resources guide](https://pubs.usgs.gov/gip/2005/17/) provides useful real-world context for the ores and mining systems that inspire Minecraft's resource loop. The publication is from the U.S. Geological Survey and is in the public domain.
+This original quick-reference PDF covers Minecraft's first night, early base setup, mining preparation, and progression goals.
 
 ### Suggested Route
 
