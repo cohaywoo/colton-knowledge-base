@@ -1,5 +1,5 @@
 ---
-title: Organizing System Analysis: Minecraft Wiki
+title: "Organizing System Analysis: Minecraft Wiki"
 ---
 
 # Organizing System Analysis: Minecraft Wiki
